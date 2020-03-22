@@ -1,7 +1,1 @@
-# sandbox
-
-This is a README file
-
-## License 
-
-WTFPL
+ref: https://github.com/sotayamashita/pr-triage-qa
